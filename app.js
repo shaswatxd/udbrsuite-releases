@@ -4,7 +4,7 @@
 
 const GITHUB_OWNER = "shaswatxd";
 const GITHUB_REPO = "udbrsuite-releases";
-const DEFAULT_VERSION = "v1.4.26";
+const DEFAULT_VERSION = "v1.4.27";
 const DEFAULT_DOWNLOAD_URL = `https://github.com/${GITHUB_OWNER}/${GITHUB_REPO}/releases/latest`;
 
 // Switch Preview Tabs in Hero Window
